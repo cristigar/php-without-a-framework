@@ -1,0 +1,16 @@
+{
+    "name": "cristigar/php-without-a-framework",
+    "description": "An example of a modern PHP application bootstrapped without a framework.",
+    "authors": [
+        {
+            "name": "Cristian Garabagiu",
+            "email": "cristian.garabagiu@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
